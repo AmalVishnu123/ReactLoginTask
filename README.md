@@ -9,9 +9,14 @@
    PORT=8000
    JWT_SECRET=my-ultra-secure-and-ultra-long-secret
 
-3. **Installing Dependencies
+3. **Installing Dependencies**
 
-To install the required dependencies for this project, run the following command in your terminal:
+   - To install the required dependencies for this project, run the following command in your terminal:
 
-```bash
-npm install
+   ```bash
+   npm install
+
+4. **Command to run project**
+   - open two terminal to run client and server
+   - npm run start
+   - npm run server start
