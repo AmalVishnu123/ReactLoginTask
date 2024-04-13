@@ -19,4 +19,4 @@
 4. **Command to run project**
    - open two terminal to run client and server
    - npm run start
-   - npm run server start
+   - npm run serverStart
